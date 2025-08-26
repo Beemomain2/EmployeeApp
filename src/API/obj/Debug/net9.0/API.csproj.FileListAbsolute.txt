@@ -1,0 +1,16 @@
+C:\asp.net\EmployeeApp\src\EmployeeApp.API\obj\Debug\net9.0\EmployeeApp.API.csproj.AssemblyReference.cache
+C:\asp.net\EmployeeApp\src\EmployeeApp.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\asp.net\EmployeeApp\src\EmployeeApp.API\obj\Debug\net9.0\EmployeeApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\asp.net\EmployeeApp\src\EmployeeApp.API\obj\Debug\net9.0\EmployeeApp.API.AssemblyInfoInputs.cache
+C:\asp.net\EmployeeApp\src\EmployeeApp.API\obj\Debug\net9.0\EmployeeApp.API.AssemblyInfo.cs
+C:\asp.net\EmployeeApp\src\EmployeeApp.API\obj\Debug\net9.0\EmployeeApp.API.csproj.CoreCompileInputs.cache
+C:\asp.net\EmployeeApp\src\EmployeeApp.API\obj\Debug\net9.0\EmployeeApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\asp.net\EmployeeApp\src\EmployeeApp.API\obj\Debug\net9.0\EmployeeApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\asp.net\EmployeeApp\src\API\obj\Debug\net9.0\EmployeeApp.API.csproj.AssemblyReference.cache
+C:\asp.net\EmployeeApp\src\API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\asp.net\EmployeeApp\src\API\obj\Debug\net9.0\EmployeeApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\asp.net\EmployeeApp\src\API\obj\Debug\net9.0\EmployeeApp.API.AssemblyInfoInputs.cache
+C:\asp.net\EmployeeApp\src\API\obj\Debug\net9.0\EmployeeApp.API.AssemblyInfo.cs
+C:\asp.net\EmployeeApp\src\API\obj\Debug\net9.0\EmployeeApp.API.csproj.CoreCompileInputs.cache
+C:\asp.net\EmployeeApp\src\API\obj\Debug\net9.0\EmployeeApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\asp.net\EmployeeApp\src\API\obj\Debug\net9.0\EmployeeApp.API.MvcApplicationPartsAssemblyInfo.cache
